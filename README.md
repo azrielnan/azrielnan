@@ -10,7 +10,7 @@
 
 ## 练手与课程项目
 
-- **[c-exam-review](https://github.com/azrielnan/-2026C-)** — 按本校 C 语言题库做的期末复习系统。
+- **[c-exam-review](https://github.com/azrielnan/c-exam-review)** — 按本校 C 语言题库做的期末复习系统。
 - **[my-secret-garden](https://github.com/azrielnan/my-secret-garden)** — 个人网站（GitHub Pages）。
 
 ## 技术栈
